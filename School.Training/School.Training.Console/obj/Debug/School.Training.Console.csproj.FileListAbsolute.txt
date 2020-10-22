@@ -1,0 +1,6 @@
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\bin\Debug\School.Training.Console.exe.config
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\bin\Debug\School.Training.Console.exe
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\bin\Debug\School.Training.Console.pdb
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\obj\Debug\School.Training.Console.csprojResolveAssemblyReference.cache
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\obj\Debug\School.Training.Console.exe
+C:\Labory\Architecture\Training.CQRS\School.Training\School.Training.Console\obj\Debug\School.Training.Console.pdb
